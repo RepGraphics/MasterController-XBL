@@ -1,6 +1,5 @@
 # MasterController XBL (XBOX/WIN10)
-A Basic ARK:Survival Evolved Server Lookup Tool for Discord coded using Discord.JS
-Using code Suplied from the Main Master Controller Bot 
+A Basic ARK: Survival Evolved XBOX Server Lookup Tool for Discord coded using Discord.JS Using code Supplied from the Main Master Controller Bot.
 
 [![Discord](https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/GwJKw7KP9J)
 
