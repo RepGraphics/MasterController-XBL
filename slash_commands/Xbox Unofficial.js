@@ -1,7 +1,6 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 const snekfetch = require('snekfetch');
-const { Servers } = require('./../Database/Server Blacklist.json');
 const { BotIcon, BotName, BotNameLink, XBOXEmbedColour } = require('./../Database/Information.json');
 
 module.exports = {
