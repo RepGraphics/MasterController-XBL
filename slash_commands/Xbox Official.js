@@ -5,7 +5,6 @@ const fetch = require('node-fetch');
 const { BotIcon, BotName, BotNameLink, XBOXEmbedColour } = require('./../Database/Information.json');
 const { JsonDatabase } = require("wio.db");
 const serverdb = new JsonDatabase({ databasePath:"./Database/Servers.json" });
-const { Servers } = require('./../Database/Server Blacklist.json');
 
 module.exports = {
     name:"xboxofficial",
